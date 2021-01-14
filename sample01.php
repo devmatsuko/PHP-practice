@@ -12,7 +12,7 @@
 </head>
 <body>
 <header>
-<h1 class="font-weight-normal">PHP</h1>
+<h1 class="font-weight-normal">PHP</h1>    
 </header>
 
 <main>
@@ -23,5 +23,5 @@ print('PHPを勉強中です！');
 ?>
 </pre>
 </main>
-</body>
+</body>    
 </html>
